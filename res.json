@@ -1,221 +1,1538 @@
 {
-    "烧结厂": [{
-        "position.name": "副厂长",
-        "name": "田富军"
-    }, {
-        "position.name": "铁前工艺副总工兼烧结厂厂长",
-        "name": "郭利平"
-    }],
-    "炼铁厂": [{
-        "position.name": "厂长",
-        "name": "潘勇"
-    }, {
-        "position.name": "副厂长",
-        "name": "张国信"
-    }],
-    "炼钢总厂（五炼）": [{
-        "position.name": "炼钢工艺副总工 兼厂长",
-        "name": "涂文兴"
-    }, {
-        "position.name": "副厂长",
-        "name": "张盛梁"
-    }],
-    "炼钢总厂（三炼）": [{
-        "position.name": "副厂长",
-        "name": "姜卫华"
-    }, {
-        "position.name": "副厂长",
-        "name": "刘纪练"
-    }],
-    "棒材五厂": [{
-        "position.name": "厂长",
-        "name": "何福胜"
-    }, {
-        "position.name": "副厂长",
-        "name": "陈福忠"
-    }],
-    "棒材三厂": [{
-        "position.name": "厂长",
-        "name": "汪其茂"
-    }, {
-        "position.name": "厂长助理",
-        "name": "杨二保"
-    }],
-    "高线厂": [{
-        "position.name": "厂长",
-        "name": "戈高"
-    }, {
-        "position.name": "文员",
-        "name": "胡惠玲"
-    }],
-    "热卷厂": [{
-        "position.name": "厂长",
-        "name": "张子彦"
-    }, {
-        "position.name": "大学生储备",
-        "name": "江旭华"
-    }],
-    "制氧厂": [{
-        "position.name": "厂长助理",
-        "name": "李仁威"
-    }, {
-        "position.name": "文员",
-        "name": "朱荣勤"
-    }],
-    "动能部": [{
-        "position.name": "经理",
-        "name": "廖学平"
-    }, {
-        "position.name": "副经理",
-        "name": "肖意"
-    }],
-    "技术中心": [{
-        "position.name": "技术总工兼主任",
-        "name": "林致明"
-    }, {
-        "position.name": "副主任",
-        "name": "王伟"
-    }],
-    "生产部": [{
-        "position.name": "经理",
-        "name": "席贻钢"
-    }, {
-        "position.name": "副经理",
-        "name": "邱金全"
-    }],
-    "营销部": [{
-        "position.name": "经理",
-        "name": "王陈座"
-    }, {
-        "position.name": "副经理",
-        "name": "洪连福"
-    }],
-    "采购部": [{
-        "position.name": "经理",
-        "name": "邱思前"
-    }, {
-        "position.name": "经理",
-        "name": "陈娥"
-    }],
-    "资源部": [{
-        "position.name": "经理",
-        "name": "曾锦煌"
-    }, {
-        "position.name": "副经理（原料）",
-        "name": "吴国伟"
-    }],
-    "财务部": [{
-        "position.name": "经理",
-        "name": "兰秀芳"
-    }, {
-        "position.name": "副经理",
-        "name": "林文燕"
-    }],
-    "安环部": [{
-        "position.name": "经理",
-        "name": "陈晓华"
-    }, {
-        "position.name": "副经理",
-        "name": "杨其山"
-    }],
-    "设备部": [{
-        "position.name": "经理",
-        "name": "肖世钊"
-    }, {
-        "position.name": "经理",
-        "name": "涂护林"
-    }],
-    "品质部": [{
-        "position.name": "副经理（主持工作）",
-        "name": "唐名标"
-    }, {
-        "position.name": "经理助理",
-        "name": "钟泽龙"
-    }],
-    "物流部": [{
-        "position.name": "经理",
-        "name": "张建磊"
-    }, {
-        "position.name": "副经理",
-        "name": "陈翔"
-    }],
-    "人力资源部": [{
-        "position.name": "经理",
-        "name": "汤勇华"
-    }, {
-        "position.name": "副经理",
-        "name": "林仁福"
-    }],
-    "董办": [{
-        "position.name": "副主任（主持工作）",
-        "name": "蒋丽虹"
-    }, {
-        "position.name": "副主任",
-        "name": "李凤莲"
-    }],
-    "漳州三宝物流有限公司": [{
-        "position.name": "副总经理",
-        "name": "蔡俊伟"
-    }, {
-        "position.name": "文员",
-        "name": "刘姣娇"
-    }],
-    "离职人员": [null, null],
-    "综合管理部": [{
-        "position.name": "副经理（主持工作）",
-        "name": "董化丹"
-    }, {
-        "position.name": "副经理",
-        "name": "邱金城"
-    }],
-    "信息部": [{
-        "position.name": "主任",
-        "name": "陈涌"
-    }, {
-        "position.name": "大学生储备",
-        "name": "郑梓弘"
-    }],
-    "党工团": [null, null],
-    "物联科技": [{
-        "position.name": "项目经理",
-        "name": "陈中英"
-    }, {
-        "position.name": "施工员",
-        "name": "周朝辉"
-    }],
-    "工程部": [{
-        "position.name": "副总工程师兼经理",
-        "name": "董桂波"
-    }, {
-        "position.name": "大学生储备",
-        "name": "蒋立中"
-    }],
-    "综合体": [{
-        "position.name": "行政主管",
-        "name": "陈秀玲"
-    }, {
-        "position.name": "行政司机",
-        "name": "于涛"
-    }],
-    "党委": [{
-        "position.name": "党委书记",
-        "name": "林军"
-    }, {
-        "position.name": "副主任",
-        "name": "詹艺珊"
-    }],
-    "优棒厂": [{
-        "position.name": "厂长",
-        "name": "熊科林"
-    }, {
-        "position.name": "副厂长",
-        "name": "郭红俊"
-    }],
-    "再资源厂": [{
-        "position.name": "铁砣操作工",
-        "name": "曾令湘"
-    }, {
-        "position.name": "铁砣操作工",
-        "name": "唐建杯"
-    }]
+	"烧结厂": {
+		"persons": [{
+			"position.name": "副厂长",
+			"name": "田富军"
+		}, {
+			"position.name": "铁前工艺副总工兼烧结厂厂长",
+			"name": "郭利平"
+		}],
+		"原料车间": {
+			"persons": [{
+				"position.name": "原料车间主任",
+				"name": "蔡起群"
+			}, {
+				"position.name": "燃破、石灰破大班长",
+				"name": "詹汗良"
+			}, {
+				"position.name": "供料白班班长",
+				"name": "宋木贵"
+			}]
+		},
+		"烧结车间": {
+			"persons": [{
+				"position.name": "烧结车间主任",
+				"name": "赵建兵"
+			}, {
+				"position.name": "烧结工长",
+				"name": "王宏超"
+			}, {
+				"position.name": "烧结副工长",
+				"name": "许军华"
+			}]
+		},
+		"动力车间": {
+			"persons": [{
+				"position.name": "动力车间主任",
+				"name": "杜正铫"
+			}, {
+				"position.name": "风机脱硫班长",
+				"name": "宋木勇"
+			}, {
+				"position.name": "脱硫组长",
+				"name": "陈宝勇"
+			}]
+		},
+		"机修车间": {
+			"persons": [{
+				"position.name": "机修车间主任",
+				"name": "蒋溪宗"
+			}, {
+				"position.name": "机修车间副主任",
+				"name": "林峰"
+			}, {
+				"position.name": "钳工班长",
+				"name": "郑平"
+			}]
+		},
+		"设备科": {
+			"persons": [null, null, null]
+		},
+		"石灰窑车间": {
+			"persons": [{
+				"position.name": "石灰窑车间主任",
+				"name": "雷颜忠"
+			}, {
+				"position.name": "石灰窑主控工",
+				"name": "童月琴"
+			}, {
+				"position.name": "石灰窑主控工",
+				"name": "陈丽芳"
+			}]
+		},
+		"球团车间": {
+			"persons": [{
+				"position.name": "球团车间主任",
+				"name": "刘文军"
+			}, {
+				"position.name": "球团替班工长",
+				"name": "马军"
+			}, {
+				"position.name": "球团工长",
+				"name": "陈建新"
+			}]
+		},
+		"3#烧结": {
+			"persons": [{
+				"position.name": "烧结工长",
+				"name": "黄正根"
+			}, {
+				"position.name": "烧结工长",
+				"name": "李立杰"
+			}, {
+				"position.name": "烧结副工长",
+				"name": "赵丽海"
+			}]
+		},
+		"原料三车间": {
+			"persons": [{
+				"position.name": "破碎组长",
+				"name": "陈志强"
+			}, {
+				"position.name": "破碎组长",
+				"name": "颜爱义"
+			}, {
+				"position.name": "破碎组长",
+				"name": "杨国章"
+			}]
+		},
+		"动力三车间": {
+			"persons": [{
+				"position.name": "脱硫白班班长",
+				"name": "李在洋"
+			}, {
+				"position.name": "脱硫组长",
+				"name": "杨天赐"
+			}, {
+				"position.name": "脱硫组长",
+				"name": "王孝伟"
+			}]
+		},
+		"机修三车间": {
+			"persons": [{
+				"position.name": "机修副主任",
+				"name": "刘加海"
+			}, {
+				"position.name": "钳工白班班长",
+				"name": "陈荣业"
+			}, {
+				"position.name": "钳工白班班长",
+				"name": "吕海同"
+			}]
+		}
+	},
+	"炼铁厂": {
+		"persons": [{
+			"position.name": "厂长",
+			"name": "潘勇"
+		}, {
+			"position.name": "副厂长",
+			"name": "张国信"
+		}]
+	},
+	"炼钢总厂（五炼）": {
+		"persons": [{
+			"position.name": "炼钢工艺副总工 兼厂长",
+			"name": "涂文兴"
+		}, {
+			"position.name": "副厂长",
+			"name": "张盛梁"
+		}],
+		"生产技术科": {
+			"persons": [null, null, null]
+		},
+		"1#转炉车间": {
+			"persons": [{
+				"position.name": "转炉车间主任",
+				"name": "李润泽"
+			}, {
+				"position.name": "转炉车间副主任",
+				"name": "郭大伟"
+			}, {
+				"position.name": "转炉炉长",
+				"name": "李秀君"
+			}]
+		},
+		"连铸车间": {
+			"persons": [{
+				"position.name": "连铸车间主任",
+				"name": "江小敏"
+			}, {
+				"position.name": "连铸机长",
+				"name": "罗祥富"
+			}, {
+				"position.name": "连铸机长",
+				"name": "李松"
+			}]
+		},
+		"准备车间": {
+			"persons": [{
+				"position.name": "准备车间主任",
+				"name": "肖良文"
+			}, {
+				"position.name": "辅料渣场综合工",
+				"name": "林松茂"
+			}, {
+				"position.name": "上料班长",
+				"name": "伍传林"
+			}]
+		},
+		"行车车间": {
+			"persons": [{
+				"position.name": "行车车间主任",
+				"name": "王佩军"
+			}, {
+				"position.name": "行车班长",
+				"name": "章国如"
+			}, {
+				"position.name": "行车班长",
+				"name": "邹建国"
+			}]
+		},
+		"能介车间": {
+			"persons": [{
+				"position.name": "能介大班长",
+				"name": "周全开"
+			}, {
+				"position.name": "除尘及煤气回收班长",
+				"name": "韩东"
+			}, {
+				"position.name": "一次除尘风机组长",
+				"name": "许小杰"
+			}]
+		},
+		"机修车间": {
+			"persons": [{
+				"position.name": "机修车间主任",
+				"name": "朱荣华"
+			}, {
+				"position.name": "仪表技师",
+				"name": "陈德志"
+			}, {
+				"position.name": "钳工班长",
+				"name": "胡花团"
+			}]
+		},
+		"设备科": {
+			"persons": [null, null, null]
+		},
+		"板坯": {
+			"persons": [null, null, null]
+		},
+		"2#转炉车间": {
+			"persons": [null, null, null]
+		}
+	},
+	"炼钢总厂（三炼）": {
+		"persons": [{
+			"position.name": "副厂长",
+			"name": "姜卫华"
+		}, {
+			"position.name": "副厂长",
+			"name": "刘纪练"
+		}],
+		"转炉车间": {
+			"persons": [{
+				"position.name": "转炉车间主任",
+				"name": "陈幼华"
+			}, {
+				"position.name": "转炉炉长",
+				"name": "袁春耀"
+			}, {
+				"position.name": "转炉炉长",
+				"name": "凌鑫"
+			}]
+		},
+		"电炉车间": {
+			"persons": [{
+				"position.name": "电炉车间主任",
+				"name": "杜亮"
+			}, {
+				"position.name": "电炉车间副主任",
+				"name": "刘文强"
+			}, {
+				"position.name": "电炉原料车间副主任",
+				"name": "吴贻宝"
+			}]
+		},
+		"连铸车间": {
+			"persons": [{
+				"position.name": "连铸车间主任",
+				"name": "张谋国"
+			}, {
+				"position.name": "连铸机长",
+				"name": "张谋其"
+			}, {
+				"position.name": "连铸机长",
+				"name": "韦瑞兴"
+			}]
+		},
+		"行车车间": {
+			"persons": [{
+				"position.name": "行车车间主任",
+				"name": "潘贵申"
+			}, {
+				"position.name": "行车班长",
+				"name": "杨家填"
+			}, {
+				"position.name": "行车班长",
+				"name": "章会浪"
+			}]
+		},
+		"钢包热修车间": {
+			"persons": [{
+				"position.name": "热修包大班长",
+				"name": "段海波"
+			}, {
+				"position.name": "钢包热修组长",
+				"name": "吴煜信"
+			}, {
+				"position.name": "钢包热修组长",
+				"name": "裴晶伟"
+			}]
+		},
+		"生产准备车间": {
+			"persons": [{
+				"position.name": "准备大班长",
+				"name": "黄俊同"
+			}, {
+				"position.name": "铲车工",
+				"name": "蒋焕忠"
+			}, {
+				"position.name": "铲车工",
+				"name": "王阳海"
+			}]
+		},
+		"能介车间": {
+			"persons": [{
+				"position.name": "能介大班长",
+				"name": "冯平"
+			}, {
+				"position.name": "转炉汽化除尘班长",
+				"name": "杨建国"
+			}, {
+				"position.name": "转炉汽化除尘班长",
+				"name": "黄少辉"
+			}]
+		},
+		"电气车间": {
+			"persons": [{
+				"position.name": "电工大班长",
+				"name": "林辉"
+			}, {
+				"position.name": "电工班长",
+				"name": "陈福山"
+			}, {
+				"position.name": "转炉区域电工技师",
+				"name": "魏胜高"
+			}]
+		},
+		"检修车间": {
+			"persons": [{
+				"position.name": "检修车间主任",
+				"name": "王向卫"
+			}, {
+				"position.name": "钳工班长",
+				"name": "蔡茂坤"
+			}, {
+				"position.name": "钳工",
+				"name": "罗建成"
+			}]
+		}
+	},
+	"棒材五厂": {
+		"persons": [{
+			"position.name": "厂长",
+			"name": "何福胜"
+		}, {
+			"position.name": "副厂长",
+			"name": "陈福忠"
+		}],
+		"工段": {
+			"persons": [{
+				"position.name": "工段长",
+				"name": "黄文志"
+			}, {
+				"position.name": "工段长",
+				"name": "吴长略"
+			}, {
+				"position.name": "工段长",
+				"name": "林应程"
+			}]
+		},
+		"电工班": {
+			"persons": [{
+				"position.name": "电工组长",
+				"name": "黄颜锦"
+			}, {
+				"position.name": "电工组长",
+				"name": "张润平"
+			}, {
+				"position.name": "电工组长",
+				"name": "张合全"
+			}]
+		},
+		"钳工班": {
+			"persons": [{
+				"position.name": "钳工班长",
+				"name": "陈启铭"
+			}, {
+				"position.name": "钳工组长",
+				"name": "林孙安"
+			}, {
+				"position.name": "钳工组长",
+				"name": "李毅阳"
+			}]
+		},
+		"流体班": {
+			"persons": [{
+				"position.name": "流体钳工班长",
+				"name": "张玉明"
+			}, {
+				"position.name": "流体钳工组长",
+				"name": "蒋树山"
+			}, {
+				"position.name": "流体钳工",
+				"name": "周连峰"
+			}]
+		},
+		"准备班": {
+			"persons": [{
+				"position.name": "准备班班长",
+				"name": "林国荣"
+			}, {
+				"position.name": "轧辊装配工",
+				"name": "陈建国"
+			}, {
+				"position.name": "轧辊装配工",
+				"name": "林新勇"
+			}]
+		}
+	},
+	"棒材三厂": {
+		"persons": [{
+			"position.name": "厂长",
+			"name": "汪其茂"
+		}, {
+			"position.name": "厂长助理",
+			"name": "杨二保"
+		}],
+		"工段": {
+			"persons": [{
+				"position.name": "工段长",
+				"name": "陈维华"
+			}, {
+				"position.name": "工段长",
+				"name": "郑银忠"
+			}, {
+				"position.name": "工段长",
+				"name": "张先伍"
+			}]
+		},
+		"电工班": {
+			"persons": [{
+				"position.name": "电工班长",
+				"name": "吴信聪"
+			}, {
+				"position.name": "电工",
+				"name": "卢敏文"
+			}, {
+				"position.name": "电工",
+				"name": "张梦笛"
+			}]
+		},
+		"钳工班": {
+			"persons": [{
+				"position.name": "钳工班长",
+				"name": "林木勇"
+			}, {
+				"position.name": "钳工",
+				"name": "林尖武"
+			}, {
+				"position.name": "钳工",
+				"name": "林旦雄"
+			}]
+		},
+		"流体班": {
+			"persons": [{
+				"position.name": "流体班长",
+				"name": "朱易浩"
+			}, {
+				"position.name": "流体钳工",
+				"name": "廖国彪"
+			}, {
+				"position.name": "流体钳工",
+				"name": "林伟文"
+			}]
+		},
+		"准备班": {
+			"persons": [{
+				"position.name": "准备班长",
+				"name": "王泽"
+			}, {
+				"position.name": "准备钳工",
+				"name": "全长发"
+			}, {
+				"position.name": "钳工",
+				"name": "王国富"
+			}]
+		}
+	},
+	"高线厂": {
+		"persons": [{
+			"position.name": "厂长",
+			"name": "戈高"
+		}, {
+			"position.name": "文员",
+			"name": "胡惠玲"
+		}],
+		"工段": {
+			"persons": [{
+				"position.name": "工段长",
+				"name": "陈世平"
+			}, {
+				"position.name": "工段长",
+				"name": "连秋章"
+			}, {
+				"position.name": "工段长",
+				"name": "李怀剑"
+			}]
+		},
+		"电工班": {
+			"persons": [{
+				"position.name": "电工班长",
+				"name": "祝令栋"
+			}, {
+				"position.name": "电工组长",
+				"name": "杨继雄"
+			}, {
+				"position.name": "电工组长",
+				"name": "石玉君"
+			}]
+		},
+		"机械班": {
+			"persons": [{
+				"position.name": "钳工班长",
+				"name": "任海江"
+			}, {
+				"position.name": "机械钳工组长",
+				"name": "庄林锋"
+			}, {
+				"position.name": "机械钳工组长",
+				"name": "郭志平"
+			}]
+		},
+		"流体班": {
+			"persons": [{
+				"position.name": "流体钳工班长",
+				"name": "胡辉"
+			}, {
+				"position.name": "流体钳工",
+				"name": "赵志良"
+			}, {
+				"position.name": "流体钳工",
+				"name": "梁裕强"
+			}]
+		},
+		"准备班": {
+			"persons": [{
+				"position.name": "准备班长",
+				"name": "李志强"
+			}, {
+				"position.name": "轧辊装配组长",
+				"name": "蒋裕阳"
+			}, {
+				"position.name": "轧辊装配工",
+				"name": "杨宗光"
+			}]
+		}
+	},
+	"热卷厂": {
+		"persons": [{
+			"position.name": "厂长",
+			"name": "张子彦"
+		}, {
+			"position.name": "大学生储备",
+			"name": "江旭华"
+		}],
+		"生产车间": {
+			"persons": [{
+				"position.name": "生产车间副主任",
+				"name": "刘云"
+			}, {
+				"position.name": "生产车间副主任",
+				"name": "程宁川"
+			}, {
+				"position.name": "加热班长",
+				"name": "文佳良"
+			}]
+		},
+		"设备车间": {
+			"persons": [{
+				"position.name": "设备车间副主任",
+				"name": "匡雷"
+			}, {
+				"position.name": "加/粗区行车班长",
+				"name": "王刚勇"
+			}, {
+				"position.name": "加/粗区行车机液点检员",
+				"name": "吴金荣"
+			}]
+		}
+	},
+	"制氧厂": {
+		"persons": [{
+			"position.name": "厂长助理",
+			"name": "李仁威"
+		}, {
+			"position.name": "文员",
+			"name": "朱荣勤"
+		}],
+		"工段": {
+			"persons": [{
+				"position.name": "工段长",
+				"name": "刘挺"
+			}, {
+				"position.name": "工段长",
+				"name": "廖先进"
+			}, {
+				"position.name": "工段长",
+				"name": "涂刚刚"
+			}]
+		},
+		"电工班": {
+			"persons": [{
+				"position.name": "仪电工程师",
+				"name": "张忠良"
+			}, {
+				"position.name": "检修副班长（电工）",
+				"name": "汤韩昌"
+			}, {
+				"position.name": "电工",
+				"name": "林乔南"
+			}]
+		},
+		"钳工班": {
+			"persons": [{
+				"position.name": "机械工程师",
+				"name": "吴利伟"
+			}, {
+				"position.name": "检修副班长（钳工）",
+				"name": "陈四辈"
+			}, {
+				"position.name": "钳工",
+				"name": "李守坡"
+			}]
+		},
+		"空压站": {
+			"persons": [null, null, null]
+		}
+	},
+	"动能部": {
+		"persons": [{
+			"position.name": "经理",
+			"name": "廖学平"
+		}, {
+			"position.name": "副经理",
+			"name": "肖意"
+		}],
+		"煤气车间": {
+			"persons": [{
+				"position.name": "煤气车间主任",
+				"name": "蔡志聪"
+			}, {
+				"position.name": "机械专工",
+				"name": "曾惠通"
+			}, {
+				"position.name": "电仪专工",
+				"name": "黄荣坤"
+			}]
+		},
+		"发电车间": {
+			"persons": [{
+				"position.name": "文员",
+				"name": "白杰凤"
+			}, {
+				"position.name": "大学生储备",
+				"name": "蔡晓丽"
+			}, {
+				"position.name": "大学生储备",
+				"name": "李信"
+			}]
+		},
+		"供电车间": {
+			"persons": [{
+				"position.name": "设备/电气专工",
+				"name": "蔡启珍"
+			}, {
+				"position.name": "设备/电气专工",
+				"name": "黄树海"
+			}, {
+				"position.name": "电气工程师",
+				"name": "宋海明"
+			}]
+		},
+		"天然气站": {
+			"persons": [{
+				"position.name": "运行主操兼巡管工",
+				"name": "黄万辉"
+			}, {
+				"position.name": "运行主操兼巡管工",
+				"name": "廖学春"
+			}, {
+				"position.name": "运行主操兼巡管工",
+				"name": "陈文泉"
+			}]
+		}
+	},
+	"技术中心": {
+		"persons": [{
+			"position.name": "技术总工兼主任",
+			"name": "林致明"
+		}, {
+			"position.name": "副主任",
+			"name": "王伟"
+		}]
+	},
+	"生产部": {
+		"persons": [{
+			"position.name": "经理",
+			"name": "席贻钢"
+		}, {
+			"position.name": "副经理",
+			"name": "邱金全"
+		}],
+		"调度室": {
+			"persons": [{
+				"position.name": "生产计划员",
+				"name": "郑荣艺"
+			}, {
+				"position.name": "调度班长",
+				"name": "王进勇"
+			}, {
+				"position.name": "调度班长",
+				"name": "许铝鹏"
+			}]
+		}
+	},
+	"营销部": {
+		"persons": [{
+			"position.name": "经理",
+			"name": "王陈座"
+		}, {
+			"position.name": "副经理",
+			"name": "洪连福"
+		}],
+		"营销组": {
+			"persons": [{
+				"position.name": "营销员",
+				"name": "王进"
+			}, {
+				"position.name": "营销员",
+				"name": "王璐涵"
+			}, {
+				"position.name": "营销员",
+				"name": "李甲林"
+			}]
+		},
+		"开单组": {
+			"persons": [{
+				"position.name": "开单班长",
+				"name": "杨小荣"
+			}, {
+				"position.name": "开单员",
+				"name": "唐永淑"
+			}, {
+				"position.name": "开单员",
+				"name": "李丽云"
+			}]
+		},
+		"装车发货组": {
+			"persons": [{
+				"position.name": "二库发货员",
+				"name": "杨奇"
+			}, {
+				"position.name": "二库发货员",
+				"name": "詹志强"
+			}, {
+				"position.name": "二库发货员",
+				"name": "詹智利"
+			}]
+		}
+	},
+	"采购部": {
+		"persons": [{
+			"position.name": "经理",
+			"name": "邱思前"
+		}, {
+			"position.name": "经理",
+			"name": "陈娥"
+		}],
+		"辅材组": {
+			"persons": [{
+				"position.name": "辅材采购主管",
+				"name": "林应礼"
+			}, {
+				"position.name": "采购员",
+				"name": "王旺臻"
+			}, {
+				"position.name": "采购员",
+				"name": "张世东"
+			}]
+		},
+		"设备一组": {
+			"persons": [{
+				"position.name": "采购员",
+				"name": "侯连燚"
+			}, {
+				"position.name": "采购员",
+				"name": "杨建新"
+			}, {
+				"position.name": "采购员",
+				"name": "蔡旺旺"
+			}]
+		},
+		"设备二组": {
+			"persons": [{
+				"position.name": "采购员",
+				"name": "王靖"
+			}, {
+				"position.name": "采购员",
+				"name": "郑伟杰"
+			}, {
+				"position.name": "采购员",
+				"name": "吴萍"
+			}]
+		},
+		"项目组": {
+			"persons": [{
+				"position.name": "采购助理",
+				"name": "罗丽娟"
+			}, {
+				"position.name": "采购员（项目）",
+				"name": "陈庚子"
+			}, {
+				"position.name": "采购员（项目）",
+				"name": "张俊洋"
+			}]
+		},
+		"副产品组": {
+			"persons": [{
+				"position.name": "副产品销售主管",
+				"name": "蔡孟龙"
+			}, {
+				"position.name": "副产品销售员",
+				"name": "林天权"
+			}, {
+				"position.name": "副产品销售员",
+				"name": "汤建辉"
+			}]
+		}
+	},
+	"资源部": {
+		"persons": [{
+			"position.name": "经理",
+			"name": "曾锦煌"
+		}, {
+			"position.name": "副经理（原料）",
+			"name": "吴国伟"
+		}],
+		"废钢组": {
+			"persons": [{
+				"position.name": "废钢验收主管",
+				"name": "王孝希"
+			}, {
+				"position.name": "废钢验收副主管",
+				"name": "张吓华"
+			}, {
+				"position.name": "废钢验收副主管",
+				"name": "陈守心"
+			}]
+		},
+		"燃料组": {
+			"persons": [{
+				"position.name": "采购员",
+				"name": "庄泽明"
+			}, {
+				"position.name": "采购员",
+				"name": "王明杰"
+			}, {
+				"position.name": "驻外业务员",
+				"name": "李宗善"
+			}]
+		},
+		"矿石组": {
+			"persons": [{
+				"position.name": "采购员",
+				"name": "林漳安"
+			}, {
+				"position.name": "采购员",
+				"name": "王鸿沟"
+			}, {
+				"position.name": "单证员",
+				"name": "王世达"
+			}]
+		},
+		"信息组": {
+			"persons": [{
+				"position.name": "信息员",
+				"name": "刘文韬"
+			}, {
+				"position.name": "信息员",
+				"name": "秦峰"
+			}, null]
+		},
+		"资金组": {
+			"persons": [null, null, null]
+		},
+		"废钢破碎车间": {
+			"persons": [null, null, null]
+		},
+		"钢坯组": {
+			"persons": [{
+				"position.name": "采购员（钢坯）",
+				"name": "林国金"
+			}, null, null]
+		}
+	},
+	"财务部": {
+		"persons": [{
+			"position.name": "经理",
+			"name": "兰秀芳"
+		}, {
+			"position.name": "副经理",
+			"name": "林文燕"
+		}],
+		"账务核算": {
+			"persons": [{
+				"position.name": "子公司财务负责人（制造类）",
+				"name": "陈淑慧"
+			}, {
+				"position.name": "子公司财务负责人（制造类）",
+				"name": "黄东方"
+			}, {
+				"position.name": "贸易类主办会计",
+				"name": "杨志铠"
+			}]
+		},
+		"资金结算": {
+			"persons": [{
+				"position.name": "出纳",
+				"name": "李晨党"
+			}, {
+				"position.name": "出纳",
+				"name": "陈梅玉"
+			}, {
+				"position.name": "出纳",
+				"name": "陈亚玲"
+			}]
+		},
+		"分厂核算": {
+			"persons": [{
+				"position.name": "核算员",
+				"name": "韩燕惠"
+			}, {
+				"position.name": "核算员",
+				"name": "庄宝缎"
+			}, null]
+		},
+		"审计组": {
+			"persons": [null, null, null]
+		}
+	},
+	"安环部": {
+		"persons": [{
+			"position.name": "经理",
+			"name": "陈晓华"
+		}, {
+			"position.name": "副经理",
+			"name": "杨其山"
+		}],
+		"园林绿化组": {
+			"persons": [{
+				"position.name": "园林绿化工",
+				"name": "林火荣"
+			}, {
+				"position.name": "园林绿化工",
+				"name": "张爱珠"
+			}, {
+				"position.name": "园林绿化工",
+				"name": "杨阿怀"
+			}]
+		},
+		"环卫所": {
+			"persons": [{
+				"position.name": "环卫主管",
+				"name": "林伟孝"
+			}, {
+				"position.name": "环卫员",
+				"name": "林东风"
+			}, {
+				"position.name": "环卫员",
+				"name": "李加发"
+			}]
+		},
+		"编外": {
+			"persons": [{
+				"position.name": "保洁员",
+				"name": "张秀叶"
+			}, null, null]
+		}
+	},
+	"设备部": {
+		"persons": [{
+			"position.name": "经理",
+			"name": "肖世钊"
+		}, {
+			"position.name": "经理",
+			"name": "涂护林"
+		}],
+		"库管班": {
+			"persons": [{
+				"position.name": "库管班主管",
+				"name": "高丽娟"
+			}, {
+				"position.name": "综合库班长",
+				"name": "肖根娘"
+			}, {
+				"position.name": "仓管员",
+				"name": "邓文娟"
+			}]
+		},
+		"机加工": {
+			"persons": [{
+				"position.name": "机加工车间主任",
+				"name": "孟凡忠"
+			}, {
+				"position.name": "机加工班长",
+				"name": "陈国雄"
+			}, {
+				"position.name": "机加工班长",
+				"name": "蒋志军"
+			}]
+		}
+	},
+	"品质部": {
+		"persons": [{
+			"position.name": "副经理（主持工作）",
+			"name": "唐名标"
+		}, {
+			"position.name": "经理助理",
+			"name": "钟泽龙"
+		}],
+		"检验班组": {
+			"persons": [{
+				"position.name": "检验班长（三轧.高线）",
+				"name": "林艺斌"
+			}, {
+				"position.name": "检验班长（三轧.高线）",
+				"name": "陈剑辉"
+			}, {
+				"position.name": "检验班长（三轧.高线）",
+				"name": "林艺斌"
+			}]
+		},
+		"炼钢班组": {
+			"persons": [{
+				"position.name": "炼钢班长（三炼）",
+				"name": "杨庆松"
+			}, {
+				"position.name": "炼钢班长（三炼）",
+				"name": "黄彦丽"
+			}, {
+				"position.name": "炼钢班长（三炼）",
+				"name": "杨晓虎"
+			}]
+		},
+		"检测技术中心": {
+			"persons": [{
+				"position.name": "检测技术中心主任",
+				"name": "赵文坚"
+			}, {
+				"position.name": "化验班长",
+				"name": "吕秋梅"
+			}, {
+				"position.name": "化验班长",
+				"name": "吕美丽"
+			}]
+		},
+		"地磅班组": {
+			"persons": [{
+				"position.name": "地磅班长",
+				"name": "杨碧珠"
+			}, {
+				"position.name": "地磅班长",
+				"name": "杨梅玲"
+			}, {
+				"position.name": "地磅班长",
+				"name": "蔡秋萌"
+			}]
+		},
+		"验收班组": {
+			"persons": [{
+				"position.name": "取样班长",
+				"name": "蒋长生"
+			}, {
+				"position.name": "取样班长",
+				"name": "沈金流"
+			}, {
+				"position.name": "取样班长",
+				"name": "林建标"
+			}]
+		}
+	},
+	"物流部": {
+		"persons": [{
+			"position.name": "经理",
+			"name": "张建磊"
+		}, {
+			"position.name": "副经理",
+			"name": "陈翔"
+		}],
+		"原燃辅料业务组": {
+			"persons": [{
+				"position.name": "物流主管",
+				"name": "张震宇"
+			}, {
+				"position.name": "物流管理员",
+				"name": "庄南灯"
+			}, {
+				"position.name": "物流管理员",
+				"name": "林泽颖"
+			}]
+		},
+		"监控组": {
+			"persons": [{
+				"position.name": "监控班长",
+				"name": "张霖城"
+			}, {
+				"position.name": "监控员",
+				"name": "陈金标"
+			}, {
+				"position.name": "监控员",
+				"name": "赵仰育"
+			}]
+		},
+		"开单组": {
+			"persons": [null, null, null]
+		},
+		"成品业务组": {
+			"persons": [{
+				"position.name": "物流管理员",
+				"name": "王新发"
+			}, {
+				"position.name": "物流管理员",
+				"name": "陈文建"
+			}, null]
+		}
+	},
+	"人力资源部": {
+		"persons": [{
+			"position.name": "经理",
+			"name": "汤勇华"
+		}, {
+			"position.name": "副经理",
+			"name": "林仁福"
+		}],
+		"考核组": {
+			"persons": [{
+				"position.name": "考核主管",
+				"name": "郑国顺"
+			}, {
+				"position.name": "考核员",
+				"name": "施乙烽"
+			}, {
+				"position.name": "考核员",
+				"name": "曾彬彬"
+			}]
+		},
+		"人事组": {
+			"persons": [{
+				"position.name": "人事主管",
+				"name": "蔡艺玲"
+			}, {
+				"position.name": "人事专员",
+				"name": "陈美莉"
+			}, {
+				"position.name": "人事专员",
+				"name": "林静娜"
+			}]
+		}
+	},
+	"董办": {
+		"persons": [{
+			"position.name": "副主任（主持工作）",
+			"name": "蒋丽虹"
+		}, {
+			"position.name": "副主任",
+			"name": "李凤莲"
+		}],
+		"风控组": {
+			"persons": [{
+				"position.name": "风控专员",
+				"name": "张露玲"
+			}, {
+				"position.name": "风控专员",
+				"name": "郑柳军"
+			}, null]
+		},
+		"接待组": {
+			"persons": [{
+				"position.name": "行政专员",
+				"name": "陈玉冰"
+			}, {
+				"position.name": "行政专员",
+				"name": "邓小文"
+			}, {
+				"position.name": "行政专员",
+				"name": "孙雅璇"
+			}]
+		},
+		"小车班": {
+			"persons": [null, null, null]
+		},
+		"后勤组": {
+			"persons": [null, null, null]
+		},
+		"驻榕办": {
+			"persons": [{
+				"position.name": "驻榕办副主任",
+				"name": "吴梅芳"
+			}, {
+				"position.name": "驻榕办行政专员",
+				"name": "张维"
+			}, null]
+		},
+		"编外": {
+			"persons": [null, null, null]
+		}
+	},
+	"漳州三宝物流有限公司": {
+		"persons": [{
+			"position.name": "副总经理",
+			"name": "蔡俊伟"
+		}, {
+			"position.name": "文员",
+			"name": "刘姣娇"
+		}],
+		"车队": {
+			"persons": [{
+				"position.name": "安全员",
+				"name": "阮少荣"
+			}, {
+				"position.name": "调度员",
+				"name": "童贵榕"
+			}, {
+				"position.name": "调度员",
+				"name": "谢炳华"
+			}]
+		},
+		"物流园": {
+			"persons": [null, null, null]
+		}
+	},
+	"离职人员": {
+		"persons": [null, null]
+	},
+	"综合管理部": {
+		"persons": [{
+			"position.name": "副经理（主持工作）",
+			"name": "董化丹"
+		}, {
+			"position.name": "副经理",
+			"name": "邱金城"
+		}],
+		"后勤组": {
+			"persons": [{
+				"position.name": "后勤主管",
+				"name": "郑乌北"
+			}, {
+				"position.name": "后勤主管",
+				"name": "苏斌辉"
+			}, {
+				"position.name": "后勤管理员",
+				"name": "周泽彬"
+			}]
+		},
+		"巡查组": {
+			"persons": [{
+				"position.name": "巡查员",
+				"name": "黄正茂"
+			}, {
+				"position.name": "巡查员",
+				"name": "杨祖贯"
+			}, null]
+		},
+		"保安队": {
+			"persons": [{
+				"position.name": "保安队长",
+				"name": "林致思"
+			}, {
+				"position.name": "保安内勤",
+				"name": "陈南南"
+			}, {
+				"position.name": "保安",
+				"name": "陈高发"
+			}]
+		},
+		"编外": {
+			"persons": [{
+				"position.name": "保洁员",
+				"name": "黄锦芬"
+			}, null, null]
+		}
+	},
+	"信息部": {
+		"persons": [{
+			"position.name": "主任",
+			"name": "陈涌"
+		}, {
+			"position.name": "大学生储备",
+			"name": "郑梓弘"
+		}]
+	},
+	"党工团": {
+		"persons": [null, null]
+	},
+	"物联科技": {
+		"persons": [{
+			"position.name": "项目经理",
+			"name": "陈中英"
+		}, {
+			"position.name": "施工员",
+			"name": "周朝辉"
+		}]
+	},
+	"工程部": {
+		"persons": [{
+			"position.name": "副总工程师兼经理",
+			"name": "董桂波"
+		}, {
+			"position.name": "大学生储备",
+			"name": "蒋立中"
+		}]
+	},
+	"综合体": {
+		"persons": [{
+			"position.name": "行政主管",
+			"name": "陈秀玲"
+		}, {
+			"position.name": "行政司机",
+			"name": "于涛"
+		}]
+	},
+	"党委": {
+		"persons": [{
+			"position.name": "党委书记",
+			"name": "林军"
+		}, {
+			"position.name": "副主任",
+			"name": "詹艺珊"
+		}],
+		"党委办": {
+			"persons": [null, null, null]
+		}
+	},
+	"优棒厂": {
+		"persons": [{
+			"position.name": "厂长",
+			"name": "熊科林"
+		}, {
+			"position.name": "副厂长",
+			"name": "郭红俊"
+		}],
+		"厂部": {
+			"persons": [{
+				"position.name": "厂长",
+				"name": "熊科林"
+			}, {
+				"position.name": "副厂长",
+				"name": "郭红俊"
+			}, {
+				"position.name": "文员",
+				"name": "林丽真"
+			}]
+		},
+		"钳工班": {
+			"persons": [{
+				"position.name": "钳工班长",
+				"name": "万绍秋"
+			}, {
+				"position.name": "钳工组长",
+				"name": "王仕文"
+			}, {
+				"position.name": "钳工",
+				"name": "张振华"
+			}]
+		},
+		"电工班": {
+			"persons": [{
+				"position.name": "电工班长",
+				"name": "何茂龙"
+			}, {
+				"position.name": "电工",
+				"name": "林火陂"
+			}, {
+				"position.name": "电工",
+				"name": "胡荣华"
+			}]
+		},
+		"流体班": {
+			"persons": [{
+				"position.name": "流体班长",
+				"name": "刘玉田"
+			}, {
+				"position.name": "流体钳工",
+				"name": "李健峰"
+			}, {
+				"position.name": "流体钳工",
+				"name": "陈志祥"
+			}]
+		},
+		"准备班": {
+			"persons": [{
+				"position.name": "准备班长",
+				"name": "周永东"
+			}, {
+				"position.name": "轧辊转配工",
+				"name": "徐明海"
+			}, {
+				"position.name": "倒班装配钳工",
+				"name": "李小兵"
+			}]
+		},
+		"加热班": {
+			"persons": [{
+				"position.name": "加热班长",
+				"name": "丰旭东"
+			}, {
+				"position.name": "加热工",
+				"name": "陈坤松"
+			}, {
+				"position.name": "加热工",
+				"name": "聂征宇"
+			}]
+		},
+		"行车班": {
+			"persons": [{
+				"position.name": "行车工",
+				"name": "周春花"
+			}, {
+				"position.name": "行车工",
+				"name": "陈美青"
+			}, {
+				"position.name": "行车工",
+				"name": "殷俊云"
+			}]
+		},
+		"轧钢班": {
+			"persons": [{
+				"position.name": "轧钢班长",
+				"name": "龙许强"
+			}, {
+				"position.name": "调整工",
+				"name": "汤如海"
+			}, {
+				"position.name": "调整工",
+				"name": "廖强"
+			}]
+		},
+		"精整班": {
+			"persons": [{
+				"position.name": "精整班长",
+				"name": "韦才勇"
+			}, {
+				"position.name": "精整班长",
+				"name": "张超"
+			}, {
+				"position.name": "精整工",
+				"name": "于学礼"
+			}]
+		},
+		"机械班": {
+			"persons": [{
+				"position.name": "高速辊箱钳工",
+				"name": "刘建强"
+			}, null, null]
+		},
+		"工段": {
+			"persons": [{
+				"position.name": "工段长",
+				"name": "陈花俤"
+			}, {
+				"position.name": "工段长",
+				"name": "文先霞"
+			}, null]
+		}
+	},
+	"再资源厂": {
+		"persons": [{
+			"position.name": "铁砣操作工",
+			"name": "曾令湘"
+		}, {
+			"position.name": "铁砣操作工",
+			"name": "唐建杯"
+		}],
+		"副产品": {
+			"persons": [{
+				"position.name": "副产品管理员",
+				"name": "王光贵"
+			}, {
+				"position.name": "副产品管理员",
+				"name": "徐本喜"
+			}, {
+				"position.name": "副产品管理员",
+				"name": "郑志敏"
+			}]
+		},
+		"微粉车间": {
+			"persons": [{
+				"position.name": "微粉车间主任",
+				"name": "王发根"
+			}, {
+				"position.name": "微粉车间副主任",
+				"name": "王书民"
+			}, {
+				"position.name": "微粉自动化工程师",
+				"name": "张志明"
+			}]
+		},
+		"渣处理车间": {
+			"persons": [{
+				"position.name": "渣场班长",
+				"name": "符仁根"
+			}, {
+				"position.name": "电工",
+				"name": "周太林"
+			}, {
+				"position.name": "钢渣处理大班长",
+				"name": "翁美镇"
+			}]
+		},
+		"钢渣处理": {
+			"persons": [null, null, null]
+		},
+		"污泥压块车间": {
+			"persons": [{
+				"position.name": "中控工",
+				"name": "靳娜"
+			}, {
+				"position.name": "中控工",
+				"name": "罗晓容"
+			}, {
+				"position.name": "中控工",
+				"name": "李梦一"
+			}]
+		}
+	}
 }

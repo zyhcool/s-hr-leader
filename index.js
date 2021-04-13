@@ -2,7 +2,7 @@ const Axios = require('axios')
 const axios = require('axios').default;
 const fs = require('fs')
 
-const JSESSIONID = 'CgEHChrqYHPO4QJeP2YIfkhMun6tEuDB17EA'
+const JSESSIONID = 'CgEHChrqYHTe4J2zXsAaCE2FmeA785TX5fQA'
 
 function getPersons(longNumber) {
     return new Promise((resolve, reject) => {
@@ -60,19 +60,19 @@ let load = async function () {
         for (let two of twos) {
             const persons = await getPersons(two.longNumber)
             res[one.name][two.name] = {
-                persons:[persons.rows[0], persons.rows[1]]
+                persons:[persons.rows[0], persons.rows[1], persons.rows[2]]
             }
-            let threes = await getTreeData(two.id)
-            if (!threes || !threes.length) {
-                console.log(two.name, ' ', two.id, ' 333333nullllll')
-                continue;
-            }
-            for (let three of threes) {
-                const persons = await getPersons(three.longNumber)
-                res[one.name][two.name][three.name] = {
-                    persons:[persons.rows[0], persons.rows[1]]
-                }
-            }
+            // let threes = await getTreeData(two.id)
+            // if (!threes || !threes.length) {
+            //     console.log(two.name, ' ', two.id, ' 333333nullllll')
+            //     continue;
+            // }
+            // for (let three of threes) {
+            //     const persons = await getPersons(three.longNumber)
+            //     res[one.name][two.name][three.name] = {
+            //         persons:[persons.rows[0], persons.rows[1]]
+            //     }
+            // }
         }
     }
     console.log(res)
