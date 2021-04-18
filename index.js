@@ -78,4 +78,17 @@ let load = async function () {
     console.log(res)
     fs.writeFileSync('./res.json', JSON.stringify(res))
 }
-load()
+// load()
+
+
+
+
+function count(year,init,add=0,profitrate=0.1){
+    if(year==1){
+        return init*(1+profitrate);
+    }
+    let sum = (count(year-1,init,add,profitrate)+add)*(1+profitrate)
+    return sum;
+}
+
+console.log(count(8,30000,0,0.1))
